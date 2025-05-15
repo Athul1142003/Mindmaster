@@ -229,7 +229,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Contact
 
-Arman Khan - ak2341776@gmail.com
+Arman Khan - am9779@srmist.edu.in
 
 Project Link - [https://github.com/Athul1142003/MindMaster](https://github.com/Athul1142003/MindMaster)
 
